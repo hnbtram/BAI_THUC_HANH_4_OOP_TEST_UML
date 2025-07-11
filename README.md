@@ -22,6 +22,8 @@
 ## 2. Sơ đồ khối yêu cầu
 ### 2.1 UML class diagram
 <img src='picture/Class diagram.jpg'>
+
 ### 2.2 UML activity diagram
+
 
   
