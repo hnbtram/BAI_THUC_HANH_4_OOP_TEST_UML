@@ -19,6 +19,7 @@
    - Thành tiền và in biên lai
 ## 2. Sơ đồ khối yêu cầu
 ### 2.1 UML class diagram
+<img src='picture/class diagram.jpg'>
 ### 2.2 UML activity diagram
 
   
