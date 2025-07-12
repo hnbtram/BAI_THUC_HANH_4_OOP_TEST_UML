@@ -18,7 +18,6 @@
    - Tính tiền giờ sử dụng máy
    - Tính phí các dịch vụ đi kèm
    - In hóa đơn thanh toán cho khách
-   - Thống kê doanh thu theo ngày/tuần/tháng
 ## 2. Sơ đồ khối yêu cầu
 ### 2.1 UML class diagram
 <img src='picture/Class diagram.jpg'>
