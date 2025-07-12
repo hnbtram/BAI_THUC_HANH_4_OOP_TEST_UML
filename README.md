@@ -6,19 +6,24 @@
 ### Xây dựng ứng dụng quản lý quán net
 1. Quản lý khách hàng
    - Thêm, sửa, xoá tên khách hàng
-   - Cập nhật sô điện thoại
+   - Lưu trữ thông tin cá nhân: mã khách hàng, họ tên, số điện thoại
    - Xem lịch sử nạp tiền
+   - Theo dõi các dịch vụ đã sử dụng (game, internet, đồ uống...)
 2. Quản lý máy tính
-   - Xem trạng thái máy tính
-   - Giờ vào chơi
-   - Giờ kết thúc
-   - Tổng thời gian chơi
+   - Theo dõi trạng thái máy (đang hoạt động, bảo trì, hỏng)
+   - Ghi nhận thời gian bắt đầu/kết thúc sử dụng
+   - Cập nhật danh sách phần mềm/game trên các máy
+   - Tính toán thời gian sử dụng và chi phí phát sinh
 3. Kiểm tra thanh toán
-   - Thanh toán tiền chơi
-   - Thời gian chơi còn lại
-   - Thành tiền và in biên lai
+   - Tính tiền giờ sử dụng máy
+   - Tính phí các dịch vụ đi kèm
+   - In hóa đơn thanh toán cho khách
+   - Thống kê doanh thu theo ngày/tuần/tháng
 ## 2. Sơ đồ khối yêu cầu
 ### 2.1 UML class diagram
+<img src='picture/Class diagram.jpg'>
+
 ### 2.2 UML activity diagram
+
 
   
